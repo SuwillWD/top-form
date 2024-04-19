@@ -50,3 +50,19 @@ body {
 #credit a {
     color: white;
 }
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#hero {
+    padding: 60px;
+}
+
+#hero h2 {
+    width: 28em;
+    margin-top: 20px;
+    font-size: 32px;
+}
