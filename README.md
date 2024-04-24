@@ -25,6 +25,10 @@ PENGUIN'S is a simple form website. Through this mini-project, I learned how to 
 4. **Customize Forms:** Customize form layouts, styles, and functionalities to fit your needs.
 5. **Submit Forms:** Submit forms and experience the form validation feature.
 
+## Live Preview
+
+Visit my website [here](https://suwillwd.github.io/top-for)
+
 ## Feedback
 
 We welcome your feedback and suggestions for improving PENGUIN'S Form Website. Feel free to submit issues or pull requests to contribute to the project.
